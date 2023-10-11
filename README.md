@@ -7,7 +7,7 @@
 
 ### Contact
 - 📧 You can reach me at abdallahmohammed499@gmail.com
-- 💼 Connect with me at https://www.linkedin.com/in/abdallah-mohammed-5230041a3/.
+- 💼 Connect with me on Linkedin at https://www.linkedin.com/in/abdallah-mohammed-5230041a3/.
 
 Feel free to explore my repositories and projects! 🚀
 
