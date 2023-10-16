@@ -9,8 +9,6 @@
 - 📧 You can reach me at abdallahmohammed499@gmail.com
 - 💼 Connect with me on Linkedin at https://www.linkedin.com/in/abdallah-mohammed-5230041a3/.
 
-Feel free to explore my repositories and projects! 🚀
-
 <!---
 Abdallah-M07/Abdallah-M07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
